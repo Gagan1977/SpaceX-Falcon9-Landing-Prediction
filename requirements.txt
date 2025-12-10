@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+folium
+plotly
+dash
+scikit-learn
+requests
+beautifulsoup4
+html5lib
+sqlalchemy
